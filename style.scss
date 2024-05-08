@@ -12,6 +12,7 @@ img {
 
 
 body{
+  overflow-x: hidden;
     margin: 0;
     background: linear-gradient($sky, $darkestDeep);
     font-family: Arial, Helvetica, sans-serif;
@@ -95,7 +96,7 @@ section {
             transform: translateX(0);
         }
         100% {
-            transform: translateX(-200%)
+            transform: translateX(-400%)
         }
       }
       
@@ -181,6 +182,8 @@ section {
           position: absolute;
           bottom: 0;
           width: 30vw;
+          right: -40vw;
+          animation: driveDistance 10s linear infinite;
       }
 
         &__trench{
