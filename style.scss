@@ -427,6 +427,7 @@ section {
             &__bottomPlasticBag {
                 animation-duration: 34s;
             }
+          }
           
          &__waves{
             position: absolute;
@@ -443,20 +444,18 @@ section {
             } 
          }
 
-         
-      }
-         &__boat{
+           &__boat{
           position: absolute;
           width: 30vw;
           bottom: 10vw;
           animation: bobbing 4s ease-in-out infinite;
           left: 30vw;
          }
+      }
     }
 
 
 .hidden{
   overflow-y: hidden;
   overflow-x: hidden;
-}
 }

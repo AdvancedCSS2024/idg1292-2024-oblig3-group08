@@ -479,19 +479,19 @@ body .svg__bottomPlasticBag {
   body .svg__bottomPlasticBag {
     animation-duration: 34s;
   }
-  body .svg__waves {
-    position: absolute;
-    width: 100%;
-    height: auto;
-    bottom: 2vw;
-    left: 0;
-  }
-  body .svg__waves--two {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    left: 0;
-  }
+}
+body .svg__waves {
+  position: absolute;
+  width: 100%;
+  height: auto;
+  bottom: 2vw;
+  left: 0;
+}
+body .svg__waves--two {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
 }
 body .svg__boat {
   position: absolute;
@@ -500,7 +500,8 @@ body .svg__boat {
   animation: bobbing 4s ease-in-out infinite;
   left: 30vw;
 }
-body .hidden {
+
+.hidden {
   overflow-y: hidden;
   overflow-x: hidden;
 }/*# sourceMappingURL=style.css.map */

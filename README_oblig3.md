@@ -4,17 +4,17 @@
 ### Brainstorming 
 In the first session we decided on the sustainable goal. We had a lot of good ideas for both the 14th and the 15th goal, but landed on goal 14.
 Life below water. This goal fucus on sustainability and conserving of the oceans, seas and the marine resources. 
-When deciding on what we wanted our storytelling to convey, we very quicly decided that we wanted.
-We wanted to convey and tell a story about plastic pollution. We were all at the same page when talking about showing people what can happend with the 
+When deciding on what we wanted our storytelling to convey, we very quickly decided that we wanted.
+We wanted to convey and tell a story about plastic pollution. We were all at the same page when talking about showing people what can happen with the 
 plastic we are throwing away and not recycling.
-The group had read about a plasticbag found all the way down at the bottom of the Marianas Trench, in the dark where no human has ever been before.  
+The group had read about a plastic-bag found all the way down at the bottom of the Marianas Trench, in the dark where no human has ever been before.  
 
 ### Brainstorming notes
 We made a list over things we wanted to implement in the story.
 
-* Plastic bag and candywrapper in the bottom of Marianas Trench
+* Plastic bag and candy-wrapper in the bottom of Marianas Trench
 * Say something of how much trash people take with us after a visit to the store
-* How many countries that dosen't recycle
+* How many % of plastics that are never recycled
 
 * A man comes out of a store with a plastic bag. When he is done with the bag he throws it in a trash can. This is being burned and goes up in the sky and a 
 seagull hits a toxic cloud and falls down on a boat.
